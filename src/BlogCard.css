@@ -1,0 +1,25 @@
+
+
+.Blog{
+    background-color: #90AEAD;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.Title{
+    font-size: 40px;
+    display: inline-block;
+    
+}
+
+.Author{
+    font-size: larger;
+    padding-left: 50px;
+    display: inline-block;
+}
+
+.Desc{
+    font-size: 25px;
+}
+

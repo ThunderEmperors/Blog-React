@@ -1,0 +1,36 @@
+.CreateNewBlog{
+    display: flex;
+    flex-direction: column;
+}
+
+.updateTab{
+    padding-left: 15px;
+    font-size: larger;
+}
+
+.updateBlog{
+    display:flex;
+    flex-direction: column;
+}
+
+.updateBlog input{
+    padding-left: 25px;
+}
+
+.updateBlogItem {
+    height: 25px;
+}
+
+
+.deleteTab{
+    padding-left:25px;
+    font-size: larger;
+}
+
+.NewBlog {
+    padding-left: 15px;
+}
+
+.NewBlog input {
+    height: 25px;
+}
