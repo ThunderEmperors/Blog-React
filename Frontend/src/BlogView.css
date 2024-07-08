@@ -1,0 +1,14 @@
+.detail-title{
+    font-size: 100px;
+    padding-top: 100px;
+    padding-left: 25px;
+}
+
+.detail-desc{
+    font-size: 28px;
+    padding-left: 50px;
+}
+
+.detail-view{
+    background-color: aqua;
+}
