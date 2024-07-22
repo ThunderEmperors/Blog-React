@@ -171,7 +171,7 @@ const Feed = () => {
         </div>
         <div className="Utility">
             
-            { blogs.map((blog, index) =>( <BlogCard props={blog} index={index}/> ))}
+            { blogs.map((blog, index) =>( <BlogCard props={blog} index={index} id={blog.id}/> ))}
 
 
         </div>

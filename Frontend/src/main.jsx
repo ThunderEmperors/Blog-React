@@ -4,6 +4,7 @@ import Feed from './Feed.jsx'
 import './index.css'
 import { createBrowserRouter, RouterProvider} from "react-router-dom"
 import BlogView from './BlogView.jsx'
+import Update from './Update.jsx'
 
 const router = createBrowserRouter([
   {
@@ -13,6 +14,10 @@ const router = createBrowserRouter([
   {
     path: "blog/:index",
     element: <BlogView />
+  },
+  {
+    path: "update",
+    element: <Update />
   }
 ]);
 
